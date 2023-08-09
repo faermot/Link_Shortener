@@ -1,6 +1,6 @@
 # Простой сократитель ссылок
 ![Лого Python](images/python_icon.svg)
-___
+
 ## Использование
 Просто скопируйте репозиторий и запустите приложение
 1. Скопируйте репозиторий:
@@ -15,9 +15,9 @@ pip install requirements.txt
 ```cmd
 flask run
 ```
-___
+
 # A simple link shortener
-___
+
 ## Использование
 Just copy the repository and run the application
 1. Clone the repository:
